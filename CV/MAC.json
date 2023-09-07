@@ -1,0 +1,356 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Salvador",
+      "surnames": "Galliano",
+      "title": "Desarrollador Jr. Javascript || Typescript || React || NextJS || NodeJS || Express.js || C# || .NET || Frontend || Backend || Fullstack || SQL || MongoDB || Firebase || Bootstrap || Tailwindcss",
+      "description": "Soy un Licenciado en Ciencias de la Computación con una pasión por el desarrollo de aplicaciones web. Mi enfoque se centra en crear soluciones innovadoras y funcionales. Disfruto trabajando en equipo y aplicando metodologías ágiles como Kanban y SCRUM para lograr resultados eficientes y de alta calidad. Mi especialidad radica en la creación de interfaces responsive y en la mejora constante de la experiencia de usuario en mis aplicaciones.\n\nRecientemente, he ampliado mis conocimientos participando en un bootcamp intensivo de C# y .NET durante este verano, con el objetivo de aumentar mis oportunidades de encontrar un trabajo relacionado con el sector IT en España. Esta experiencia me ha permitido adquirir habilidades adicionales y estar preparado para enfrentar desafíos en el ámbito tecnológico. Estoy emocionado por seguir creciendo profesionalmente y contribuir al éxito de proyectos futuros.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/06/bd033a83-0c8a-446d-9b68-afe13b2327b4_salvaprofile.png",
+        "alt": "SalvaProfile.png"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ5TCOcRaYpBIRCmZHTz37sEQ)",
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Barcelona"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://bento.me/gallianoms"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Mexican Grill"
+        },
+        "roles": [
+          {
+            "name": "Cocinero",
+            "startDate": "2022-01-01",
+            "finishDate": "2023-01-01",
+            "challenges": [
+              {
+                "description": "- Encargado de recibir a los clientes, tomar pedidos, servir alimentos y bebidas. \n- Capacité a nuevos empleados a adaptarse al puesto de trabajo.\n- Manejé el efectivo y el conteo de caja."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Party Cake Bakery"
+        },
+        "roles": [
+          {
+            "name": "Hornero",
+            "startDate": "2021-01-01",
+            "finishDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "- Encargado de preparar y hornear una variedad de panes, pasteles y galletas. \n- Habilidades en la mezcla de ingredientes, la formación de la masa y el control de la temperatura del horno.\n- Responsable de mantener la limpieza y el orden en la cocina."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ASTOR"
+        },
+        "roles": [
+          {
+            "name": "React Developer",
+            "startDate": "2019-01-01",
+            "finishDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": "- Creé un software para migrar las cuentas por pagar de clientes desde docs excel y word. \n- Utilicé React para crear una interfaz intuitiva para la gestión de cuentas, que permitía a los usuarios ver, buscar y filtrar información.\n- Creé una API RESTful en Node.js para automatizar la extracción y almacenamiento de datos desde docs excel y word mediante consultas SQL.\n- Agregué generación automática de informes y exportación de datos a varios formatos."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "CA",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "EN",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "C#",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Bootcamp C# y .NET",
+        "startDate": "2023-08-01",
+        "institution": {
+          "name": "Fundación Esplai/Barcelona",
+          "description": "- 336h",
+          "URL": "https://fundacionesplai.org/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/5933e3ae-1f31-45f2-9fbf-c0593d0f0062_esplai.jpeg",
+            "alt": "esplai.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": "C#",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Licenciado en Ciencias de la Computación",
+        "startDate": "2014-09-01",
+        "institution": {
+          "name": "Universidad de Oriente",
+          "description": "/Stgo de Cuba\n(Título Homologado)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/06/a2db8bbd-fcb3-4e37-bcc5-9429aefb9205_download.jpeg",
+            "alt": "download.jpeg"
+          }
+        },
+        "finishDate": "2019-05-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Proactividad",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/gallianoms/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://stackoverflow.com/users/22512422/salvador-galliano",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/gallianoms",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "ggallianoms@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "692051399",
+          "countryCode": "+34"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "Express",
+          "type": "technology"
+        },
+        {
+          "name": "Google Firebase",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        },
+        {
+          "name": "Tailwind",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "PHP",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Product Design (UI/UX)"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      },
+      {
+        "name": "Tailwind",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "Mi trabajo ideal sería desafiante y rodeado de profesionales apasionados que se preocupan por la calidad de su trabajo. Valoraría la confianza de la empresa en mis habilidades, asignándome tareas complejas respaldadas por la gestión. Creo en el flujo constante de conocimiento entre compañeros como una fuente vital de aprendizaje. La formación continua sería esencial para mi crecimiento profesional y mi motivación en el trabajo.",
+    "goodPractices": "Actualmente, estoy en proceso de aprendizaje en el campo del testing, buscando incorporar buenas prácticas como SOLID y DRY. Considero estas prácticas fundamentales para asegurar la eficiencia y la calidad del código que desarrollo en mis mis proyectos, lo que me permite crear un código más limpio, mantenible y escalable."
+  }
+}
