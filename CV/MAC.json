@@ -8,10 +8,10 @@
     "profile": {
       "name": "Salvador",
       "surnames": "Galliano",
-      "title": "Desarrollador Jr. Javascript || Typescript || React || NextJS || NodeJS || Express.js || C# || .NET || Frontend || Backend || Fullstack || SQL || MongoDB || Firebase || Bootstrap || Tailwindcss",
-      "description": "Soy un Licenciado en Ciencias de la Computación con una pasión por el desarrollo de aplicaciones web. Mi enfoque se centra en crear soluciones innovadoras y funcionales. Disfruto trabajando en equipo y aplicando metodologías ágiles como Kanban y SCRUM para lograr resultados eficientes y de alta calidad. Mi especialidad radica en la creación de interfaces responsive y en la mejora constante de la experiencia de usuario en mis aplicaciones.\n\nRecientemente, he ampliado mis conocimientos participando en un bootcamp intensivo de C# y .NET durante este verano, con el objetivo de aumentar mis oportunidades de encontrar un trabajo relacionado con el sector IT en España. Esta experiencia me ha permitido adquirir habilidades adicionales y estar preparado para enfrentar desafíos en el ámbito tecnológico. Estoy emocionado por seguir creciendo profesionalmente y contribuir al éxito de proyectos futuros.",
+      "title": "Desarrollador Jr. Javascript || Typescript || React || NextJS || NodeJS || Express.js || C# || .NET || SQL || MongoDB || Firebase || Bootstrap || Tailwindcss || Front-end || Back-end || Full-stack ",
+      "description": "Licenciado en Ciencias de la Computación. Enfocado en el desarrollo de aplicaciones web. Entusiasta de la colaboración y las metodologías ágiles. Competente en la creación de interfaces responsive y experiencia de usuario. Comprometido en entregar software de calidad. Explorando oportunidades laborales, becas o pasantías.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/06/bd033a83-0c8a-446d-9b68-afe13b2327b4_salvaprofile.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/662c72c9-cde1-43a8-8e44-2175fc8e35d3_salvaprofile.png",
         "alt": "SalvaProfile.png"
       },
       "location": {
@@ -194,6 +194,52 @@
           },
           {
             "name": "C#",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "JavaScript Algoritmos, Estructuras de Datos",
+        "startDate": "2022-08-01",
+        "institution": {
+          "name": "FreeCodeCamp",
+          "description": "- 300h",
+          "URL": "https://www.freecodecamp.org/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/df1d55be-ad5b-471e-bba3-8e8d4af0377d_freecodecamp.jpeg",
+            "alt": "freecodecamp.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "JavaScript Fullstack Developer",
+        "startDate": "2021-07-01",
+        "institution": {
+          "name": "Platzi",
+          "description": "- 400h",
+          "URL": "https://platzi.com/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/f463faf0-499b-477a-8147-1fc8ec65a4f0_platzi.jpeg",
+            "alt": "platzi.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
             "type": "technology"
           }
         ]
