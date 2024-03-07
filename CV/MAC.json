@@ -319,22 +319,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "MongoDB",
-          "type": "technology"
-        },
-        {
-          "name": "NextJS",
-          "type": "technology"
-        },
-        {
-          "name": "NodeJS",
-          "type": "technology"
-        },
-        {
-          "name": "React",
-          "type": "technology"
-        },
-        {
           "name": "SQL",
           "type": "technology"
         },
