@@ -135,7 +135,7 @@
       },
       {
         "details": {
-          "name": "Prueba Tecnica 2",
+          "name": "Prueba Tecnica Frontend (junior)",
           "description": "Pokedux",
           "URL": "https://pokedux-platzi.vercel.app/",
           "image": {
@@ -478,7 +478,7 @@
     "goodPractices": "- Actualmente estoy leyendo el libro de Clean Code (ingles)\n- Sigo aprendiendo sobre Testing con Java y Spring Boot (JUnit y Mockito)",
     "projects": [
       {
-        "name": "Prueba Tecnica 2"
+        "name": "Prueba Tecnica Frontend (junior)"
       },
       {
         "name": "Prueba Tecnica Frontend (junior)"
