@@ -42,6 +42,10 @@
       {
         "organization": {
           "name": "Endesa",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/07/ccf033f0-20b0-4907-a4f8-4dd987e20ffd_endesa-logo-prensa.jpg",
+            "alt": "endesa-logo-prensa.jpg"
+          },
           "URL": "https://www.endesa.com/"
         },
         "roles": [
