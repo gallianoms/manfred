@@ -38,25 +38,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "ASTOR"
-        },
-        "roles": [
-          {
-            "name": "React Developer",
-            "startDate": "2019-01-01",
-            "finishDate": "2020-01-01",
-            "challenges": [
-              {
-                "description": "- Creé un software para migrar las cuentas por pagar de clientes desde docs excel y word. \n- Utilicé React para crear una interfaz intuitiva para la gestión de cuentas, que permitía a los usuarios ver, buscar y filtrar información.\n- Creé una API RESTful en Node.js para automatizar la extracción y almacenamiento de datos desde docs excel y word mediante consultas SQL.\n- Agregué generación automática de informes y exportación de datos a varios formatos."
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {
