@@ -335,6 +335,14 @@
           "type": "technology"
         },
         {
+          "name": "NextJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        },
+        {
           "name": "SQL",
           "type": "technology"
         },
