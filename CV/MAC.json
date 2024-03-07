@@ -224,49 +224,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": ".NET",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "C#",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
+          "name": "JAVA",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NextJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NodeJS",
           "type": "technology"
         }
       },
@@ -284,13 +248,7 @@
       },
       {
         "skill": {
-          "name": "Tailwind",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
+          "name": "Spring Boot",
           "type": "technology"
         }
       }
@@ -485,6 +443,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
         "name": "JavaScript",
         "type": "technology"
       },
@@ -497,11 +459,7 @@
         "type": "technology"
       },
       {
-        "name": "Tailwind",
-        "type": "technology"
-      },
-      {
-        "name": "TypeScript",
+        "name": "Spring Boot",
         "type": "technology"
       }
     ],
