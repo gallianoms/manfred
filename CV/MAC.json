@@ -97,7 +97,11 @@
       },
       {
         "organization": {
-          "name": "ASTOR"
+          "name": "ASTOR",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/07/2e965bd1-134f-46f0-b207-98667cd0e28d_61021096_10238700768.jpg",
+            "alt": "61021096_102387007681279_8624094343805796352_n.jpg"
+          }
         },
         "roles": [
           {
