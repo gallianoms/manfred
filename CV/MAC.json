@@ -90,6 +90,49 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Prueba Tecnica Frontend (junior)",
+          "description": "Requirements\n\n1. Visualización de Libros Disponibles\n2. Creación de Lista de Lectura\n3. Filtrado de Libros por Género\n4. Sincronización de Estado\n5. Persistencia de Datos\n6. Sincronización entre pestañas\n7. Despliegue\n8. Pruebas (Test)\n9. Añadir un nuevo filtro para filtrar los libros por número de páginas (EXTRA)",
+          "URL": "https://gallianoms-01.vercel.app/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/07/67c435c7-85b1-4722-af85-48d78fe60906_1.png",
+            "alt": "1.png"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-08-01",
+            "competences": [
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "Vite",
+                "type": "technology"
+              },
+              {
+                "name": "Vitest",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-08-01"
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
@@ -395,6 +438,11 @@
       }
     ],
     "desiredJobDescription": "Valoraria mucho tener compañeros cercanos, con los que compartir experiencias y tener cosas en comun tanto en lo personal como profesiolal. Que el trabajo sea fisico o hibrido en la oficina a no mas de 1h de viaje. Me interesa poder aportar mi conocimiento y seguirme preparandome para asumir mayores resposabilidades.",
-    "goodPractices": "- Actualmente estoy leyendo el libro de Clean Code (ingles)\n- Sigo aprendiendo sobre Testing con Java y Spring Boot (JUnit y Mockito)"
+    "goodPractices": "- Actualmente estoy leyendo el libro de Clean Code (ingles)\n- Sigo aprendiendo sobre Testing con Java y Spring Boot (JUnit y Mockito)",
+    "projects": [
+      {
+        "name": "Prueba Tecnica Frontend (junior)"
+      }
+    ]
   }
 }
