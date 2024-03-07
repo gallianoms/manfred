@@ -38,6 +38,55 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "ASTOR"
+        },
+        "roles": [
+          {
+            "name": "PHP Developer",
+            "startDate": "2020-07-01",
+            "finishDate": "2021-11-01",
+            "challenges": [
+              {
+                "description": "- Creé un software para migrar las cuentas por pagar de clientes desde docs excel y word. \n- Utilicé HTML, CSS y JS para crear una interfaz intuitiva para la gestión de cuentas, que permitía a los usuarios ver, buscar y filtrar información.\n- Creé una API RESTful en Symfony para automatizar la extracción y almacenamiento de datos desde docs excel y word mediante consultas SQL.\n- Agregué generación automática de informes y exportación de datos a varios formatos."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PHPMyAdmin",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {
