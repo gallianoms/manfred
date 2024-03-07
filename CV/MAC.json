@@ -94,7 +94,7 @@
     "projects": [
       {
         "details": {
-          "name": "Prueba Tecnica Frontend (junior)",
+          "name": "Biblioteca: Prueba Tecnica Frontend (junior)",
           "description": "Requirements\n\n1. Visualización de Libros Disponibles\n2. Creación de Lista de Lectura\n3. Filtrado de Libros por Género\n4. Sincronización de Estado\n5. Persistencia de Datos\n6. Sincronización entre pestañas\n7. Despliegue\n8. Pruebas (Test)\n9. Añadir un nuevo filtro para filtrar los libros por número de páginas (EXTRA)",
           "URL": "https://gallianoms-01.vercel.app/",
           "image": {
@@ -477,10 +477,10 @@
     "goodPractices": "- Actualmente estoy leyendo el libro de Clean Code (ingles)\n- Sigo aprendiendo sobre Testing con Java y Spring Boot (JUnit y Mockito)",
     "projects": [
       {
-        "name": "Pokedux: Prueba Tecnica Frontend (junior)"
+        "name": "Biblioteca: Prueba Tecnica Frontend (junior)"
       },
       {
-        "name": "Prueba Tecnica Frontend (junior)"
+        "name": "Pokedux: Prueba Tecnica Frontend (junior)"
       }
     ]
   }
