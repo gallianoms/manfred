@@ -132,6 +132,43 @@
             "finishDate": "2023-08-01"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Prueba Tecnica 2",
+          "description": "Pokedux",
+          "URL": "https://pokedux-platzi.vercel.app/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/07/1f5a307f-13c2-48a2-b521-04d2a92645cb_1.png",
+            "alt": "1.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-06-01",
+            "competences": [
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-06-01"
+          }
+        ]
       }
     ]
   },
@@ -440,6 +477,9 @@
     "desiredJobDescription": "Valoraria mucho tener compañeros cercanos, con los que compartir experiencias y tener cosas en comun tanto en lo personal como profesiolal. Que el trabajo sea fisico o hibrido en la oficina a no mas de 1h de viaje. Me interesa poder aportar mi conocimiento y seguirme preparandome para asumir mayores resposabilidades.",
     "goodPractices": "- Actualmente estoy leyendo el libro de Clean Code (ingles)\n- Sigo aprendiendo sobre Testing con Java y Spring Boot (JUnit y Mockito)",
     "projects": [
+      {
+        "name": "Prueba Tecnica 2"
+      },
       {
         "name": "Prueba Tecnica Frontend (junior)"
       }
