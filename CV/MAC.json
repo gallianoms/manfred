@@ -41,6 +41,37 @@
     "jobs": [
       {
         "organization": {
+          "name": "Endesa",
+          "URL": "https://www.endesa.com/"
+        },
+        "roles": [
+          {
+            "name": "Backend Developer",
+            "startDate": "2023-11-01",
+            "challenges": [
+              {
+                "description": "- Aprendí sobre los proyectos existentes a través de la doc. y lectura del código.\n- Mejoré mis habilidades técnicas en el estudio autodidacta de conceptos avanzados.\n- Participé en las reuniones y discusiones relacionadas con el desarrollo del proyecto"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Gespromos",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/07/a3998f20-873b-47dd-9519-6cb5e2095599_download.png",
