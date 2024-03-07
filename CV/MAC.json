@@ -102,7 +102,7 @@
             "alt": "1.png"
           }
         },
-        "type": "openSource",
+        "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
