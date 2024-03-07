@@ -168,6 +168,38 @@
             "finishDate": "2023-06-01"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Libros: Prueba Tecnica (junior)",
+          "description": "React Native\nExpo\nFirebase\nStripe\nReact Hook Form",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/07/e562efa6-f73b-4f99-aa24-5d93ff09fed4_1.png",
+            "alt": "1.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2023-05-01",
+            "competences": [
+              {
+                "name": "Google Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "React Native",
+                "type": "technology"
+              },
+              {
+                "name": "Stripe",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2023-05-01"
+          }
+        ]
       }
     ]
   },
@@ -478,6 +510,9 @@
     "projects": [
       {
         "name": "Biblioteca: Prueba Tecnica Frontend (junior)"
+      },
+      {
+        "name": "Libros: Prueba Tecnica (junior)"
       },
       {
         "name": "Pokedux: Prueba Tecnica Frontend (junior)"
