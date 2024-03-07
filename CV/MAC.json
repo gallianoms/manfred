@@ -319,11 +319,19 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
           "name": "HTML",
           "type": "technology"
         },
         {
           "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
           "type": "technology"
         },
         {
