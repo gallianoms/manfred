@@ -41,23 +41,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Party Cake Bakery"
-        },
-        "roles": [
-          {
-            "name": "Hornero",
-            "startDate": "2021-01-01",
-            "finishDate": "2022-01-01",
-            "challenges": [
-              {
-                "description": "- Encargado de preparar y hornear una variedad de panes, pasteles y galletas. \n- Habilidades en la mezcla de ingredientes, la formación de la masa y el control de la temperatura del horno.\n- Responsable de mantener la limpieza y el orden en la cocina."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "ASTOR"
         },
         "roles": [
