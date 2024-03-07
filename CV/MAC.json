@@ -206,11 +206,6 @@
   "knowledge": {
     "languages": [
       {
-        "name": "CA",
-        "fullName": "Catalán / Valenciano",
-        "level": "Limited working proficiency"
-      },
-      {
         "name": "EN",
         "fullName": "Inglés",
         "level": "Professional working proficiency"
