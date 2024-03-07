@@ -275,6 +275,12 @@
     "softSkills": [
       {
         "skill": {
+          "name": "Adaptabilidad al cambio",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Aprendizaje Continuo",
           "type": "practice"
         }
