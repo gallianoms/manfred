@@ -275,6 +275,12 @@
     "softSkills": [
       {
         "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Autonomía en el aprendizaje",
           "type": "practice"
         }
@@ -282,12 +288,6 @@
       {
         "skill": {
           "name": "Proactividad",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
-          "name": "Trabajo en equipo",
           "type": "practice"
         }
       }
