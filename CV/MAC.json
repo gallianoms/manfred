@@ -335,15 +335,15 @@
           "type": "technology"
         },
         {
-          "name": "NextJS",
-          "type": "technology"
-        },
-        {
           "name": "SQL",
           "type": "technology"
         },
         {
           "name": "Spring Boot",
+          "type": "technology"
+        },
+        {
+          "name": "TypeScript",
           "type": "technology"
         }
       ],
