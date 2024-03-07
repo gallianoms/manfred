@@ -319,18 +319,6 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Express",
-          "type": "technology"
-        },
-        {
-          "name": "Google Firebase",
-          "type": "technology"
-        },
-        {
-          "name": "HTML",
-          "type": "technology"
-        },
-        {
           "name": "JavaScript",
           "type": "technology"
         },
