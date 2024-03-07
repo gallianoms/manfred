@@ -31,12 +31,8 @@
         "URL": "https://github.com/gallianoms"
       },
       {
-        "type": "stackoverflow",
-        "URL": "https://stackoverflow.com/users/22512422/salvador-galliano"
-      },
-      {
         "type": "other",
-        "URL": "https://bento.me/gallianoms"
+        "URL": "https://gallianoms.github.io/"
       }
     ]
   },
@@ -302,10 +298,6 @@
         {
           "URL": "https://www.linkedin.com/in/gallianoms/",
           "type": "linkedin"
-        },
-        {
-          "URL": "https://stackoverflow.com/users/22512422/salvador-galliano",
-          "type": "stackoverflow"
         },
         {
           "URL": "https://github.com/gallianoms",
