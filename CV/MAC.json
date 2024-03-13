@@ -59,7 +59,7 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -277,11 +277,11 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "JUnit",
             "type": "technology"
           },
           {
-            "name": "JUnit",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -316,7 +316,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -481,7 +481,7 @@
           "type": "technology"
         },
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {
@@ -535,7 +535,7 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "JAVA",
+        "name": "Java",
         "type": "technology"
       },
       {
