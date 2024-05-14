@@ -553,6 +553,7 @@
         "type": "technology"
       }
     ],
+    "desiredJobDescription": "Buen ambiente y buen team.",
     "goodPractices": "- Actualmente estoy leyendo el libro de Clean Code (ingles)\n- Sigo aprendiendo sobre Testing con Java y Spring Boot (JUnit y Mockito)",
     "projects": [
       {
