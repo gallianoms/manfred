@@ -7,12 +7,12 @@
   "aboutMe": {
     "profile": {
       "name": "Salvador Jesus",
-      "surnames": "G M",
+      "surnames": "Galliano Molina",
       "title": "</Junior> Java | Spring Boot | SQL | JavaScript | TypeScript | React | Next.js | Node.js",
       "description": "Licenciatura en Ciencias de la Computación con experiencia en el desarrollo web. Destreza en la creación de software backend utilizando Java y Spring Boot. Capacidad para colaborar en equipos ágiles, con motivación por aprender continuamente y enfrentar nuevos desafíos.",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/662c72c9-cde1-43a8-8e44-2175fc8e35d3_salvaprofile.png",
-        "alt": "SalvaProfile.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/05/14/8e29f1eb-0820-47bb-bbd0-e470d4927fb5__salva.png",
+        "alt": "_salva.png"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJ5TCOcRaYpBIRCmZHTz37sEQ)",
