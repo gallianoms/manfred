@@ -473,6 +473,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "C",
+          "type": "technology"
+        },
+        {
           "name": "CSS",
           "type": "technology"
         },
