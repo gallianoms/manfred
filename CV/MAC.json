@@ -479,6 +479,10 @@
         {
           "name": "JavaScript",
           "type": "technology"
+        },
+        {
+          "name": "TypeScript",
+          "type": "technology"
         }
       ],
       "preferredRoles": [
