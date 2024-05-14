@@ -473,6 +473,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Bootstrap",
+          "type": "technology"
+        },
+        {
           "name": "C",
           "type": "technology"
         },
@@ -490,6 +494,10 @@
         },
         {
           "name": "React",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
           "type": "technology"
         },
         {
