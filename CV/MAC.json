@@ -473,11 +473,19 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "C",
+          "type": "technology"
+        },
+        {
           "name": "Java",
           "type": "technology"
         },
         {
           "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
           "type": "technology"
         },
         {
