@@ -477,6 +477,10 @@
           "type": "technology"
         },
         {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
           "name": "Bootstrap",
           "type": "technology"
         },
