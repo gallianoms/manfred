@@ -527,6 +527,7 @@
       }
     ],
     "desiredJobDescription": "Compromiso del equipo.\nBuen ambiente laboral.\nPosibilidad de liderar equipo a futuro.",
+    "goodPractices": "Intento dar lo mejor de mi en cada proyecto incluso si es mas de lo que se pide.\n\nCuido los detalles porque marcan diferencia.\n\nMe gusta cuando el trabajo se valora positivamente por los stakeholders.",
     "projects": [
       {
         "name": "Biblioteca: Prueba Tecnica Frontend (junior)"
