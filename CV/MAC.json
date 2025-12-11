@@ -436,6 +436,10 @@
           "type": "technology"
         },
         {
+          "name": "Astro",
+          "type": "technology"
+        },
+        {
           "name": "JavaScript",
           "type": "technology"
         },
