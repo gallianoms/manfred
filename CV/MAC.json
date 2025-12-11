@@ -274,31 +274,6 @@
       {
         "studyType": "certification",
         "degreeAchieved": false,
-        "name": "Bootcamp C# y .NET",
-        "startDate": "2023-08-01",
-        "institution": {
-          "name": "Fundación Esplai/Barcelona",
-          "description": "- 336h",
-          "URL": "https://fundacionesplai.org/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/5933e3ae-1f31-45f2-9fbf-c0593d0f0062_esplai.jpeg",
-            "alt": "esplai.jpeg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": ".NET",
-            "type": "technology"
-          },
-          {
-            "name": "C#",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
         "name": "JavaScript Algoritmos, Estructuras de Datos",
         "startDate": "2022-08-01",
         "institution": {
