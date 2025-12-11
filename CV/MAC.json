@@ -113,49 +113,6 @@
           }
         ]
       }
-    ],
-    "projects": [
-      {
-        "details": {
-          "name": "Biblioteca: Prueba Tecnica Frontend (junior)",
-          "description": "Requirements\n\n1. Visualización de Libros Disponibles\n2. Creación de Lista de Lectura\n3. Filtrado de Libros por Género\n4. Sincronización de Estado\n5. Persistencia de Datos\n6. Sincronización entre pestañas\n7. Despliegue\n8. Pruebas (Test)\n9. Añadir un nuevo filtro para filtrar los libros por número de páginas (EXTRA)",
-          "URL": "https://gallianoms-01.vercel.app/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/07/67c435c7-85b1-4722-af85-48d78fe60906_1.png",
-            "alt": "1.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2023-08-01",
-            "competences": [
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "Tailwind",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              },
-              {
-                "name": "Vite",
-                "type": "technology"
-              },
-              {
-                "name": "Vitest",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2023-08-01"
-          }
-        ]
-      }
     ]
   },
   "knowledge": {
@@ -418,11 +375,6 @@
       }
     ],
     "desiredJobDescription": "Compromiso del equipo.\nBuen ambiente laboral.\nPosibilidad de liderar equipo a futuro.",
-    "goodPractices": "Intento dar lo mejor de mi en cada proyecto incluso si es mas de lo que se pide.\n\nCuido los detalles porque marcan diferencia.\n\nMe gusta cuando el trabajo se valora positivamente por los stakeholders.",
-    "projects": [
-      {
-        "name": "Biblioteca: Prueba Tecnica Frontend (junior)"
-      }
-    ]
+    "goodPractices": "Intento dar lo mejor de mi en cada proyecto incluso si es mas de lo que se pide.\n\nCuido los detalles porque marcan diferencia.\n\nMe gusta cuando el trabajo se valora positivamente por los stakeholders."
   }
 }
