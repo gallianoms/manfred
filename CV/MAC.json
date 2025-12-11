@@ -24,16 +24,19 @@
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/gallianoms/"
+        "URL": "https://www.linkedin.com/in/jsalvadev/"
       },
       {
         "type": "github",
         "URL": "https://github.com/gallianoms"
       },
       {
+        "type": "twitter",
+        "URL": "https://twitter.com/seasontimerlive"
+      },
+      {
         "type": "other",
-        "URL": "https://gallianoms.github.io/",
-        "description": "Portfolio"
+        "URL": "https://gallianoms.github.io/"
       }
     ]
   },
@@ -407,12 +410,16 @@
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://www.linkedin.com/in/gallianoms/",
+          "URL": "https://www.linkedin.com/in/jsalvadev/",
           "type": "linkedin"
         },
         {
           "URL": "https://github.com/gallianoms",
           "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/seasontimerlive",
+          "type": "twitter"
         }
       ],
       "contactMails": [
