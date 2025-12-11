@@ -113,6 +113,52 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "seasontimer.live",
+          "description": "SeasonTimer.live es una web que muestra cuentas regresivas en tiempo real para saber exactamente cuándo termina la temporada actual de tus videojuegos favoritos.​\n\nAyuda a jugadores de títulos como Fortnite, League of Legends, Valorant, Warzone o Apex a ver de un vistazo cuánto tiempo queda de season o battle pass, con fechas actualizadas y una interfaz muy sencilla centrada en el contador.​",
+          "URL": "https://seasontimer.live",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/12/11/1a31fc4d-1038-4c25-a994-9953a60398fc_screenshot-2025-12-1.png",
+            "alt": "Screenshot 2025-12-11 at 16.04.29.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2025-11-01",
+            "competences": [
+              {
+                "name": "Astro",
+                "type": "technology"
+              },
+              {
+                "name": "Cloudflare",
+                "type": "technology"
+              },
+              {
+                "name": "Github Actions",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
@@ -375,6 +421,11 @@
       }
     ],
     "desiredJobDescription": "Compromiso del equipo.\nBuen ambiente laboral.\nPosibilidad de liderar equipo a futuro.",
-    "goodPractices": "Intento dar lo mejor de mi en cada proyecto incluso si es mas de lo que se pide.\n\nCuido los detalles porque marcan diferencia.\n\nMe gusta cuando el trabajo se valora positivamente por los stakeholders."
+    "goodPractices": "Intento dar lo mejor de mi en cada proyecto incluso si es mas de lo que se pide.\n\nCuido los detalles porque marcan diferencia.\n\nMe gusta cuando el trabajo se valora positivamente por los stakeholders.",
+    "projects": [
+      {
+        "name": "seasontimer.live"
+      }
+    ]
   }
 }
