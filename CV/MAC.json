@@ -135,27 +135,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Gespromos",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/07/a3998f20-873b-47dd-9519-6cb5e2095599_download.png",
-            "alt": "download.png"
-          },
-          "URL": "https://gespromos.com/"
-        },
-        "roles": [
-          {
-            "name": " Promotor de ventas HP (Barcelona)",
-            "startDate": "2023-09-01",
-            "challenges": [
-              {
-                "description": "- Incrementé las ventas de portátiles e impresoras HP en FNAC.\n- Desarrollé el conocimiento de los productos para brindar orientación al cliente.\n- Preparé informes periódicos sobre las ventas y la recepción de productos HP en FNAC."
-              }
-            ]
-          }
-        ]
       }
     ],
     "projects": [
