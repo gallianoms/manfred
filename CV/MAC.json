@@ -224,47 +224,6 @@
           }
         ]
       }
-    ],
-    "publicArtifacts": [
-      {
-        "details": {
-          "name": "Java Back End Developer challenge (NUWE)",
-          "description": "Challenge: https://nuwe.io/dev/report/65d5a980777b7af38d591dca\nSolution in Github: https://github.com/nuwe-reports/65d5a980777b7af38d591dca\n",
-          "URL": "https://nuwe.io/dev/report/65d5a980777b7af38d591dca",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/07/68c75b21-26a2-4365-99ba-78b801f709b2_screenshot-2024-03-0.png",
-            "alt": "Screenshot 2024-03-07 at 12.40.11 PM.png"
-          }
-        },
-        "type": "achievement",
-        "publishingDate": "2024-02-01",
-        "relatedCompetences": [
-          {
-            "name": "Docker",
-            "type": "technology"
-          },
-          {
-            "name": "JUnit",
-            "type": "technology"
-          },
-          {
-            "name": "Java",
-            "type": "technology"
-          },
-          {
-            "name": "Maven",
-            "type": "technology"
-          },
-          {
-            "name": "Mockito",
-            "type": "technology"
-          },
-          {
-            "name": "Spring Boot",
-            "type": "technology"
-          }
-        ]
-      }
     ]
   },
   "knowledge": {
