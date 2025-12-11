@@ -285,7 +285,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Java",
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Analytics",
           "type": "technology"
         }
       },
@@ -303,13 +309,7 @@
       },
       {
         "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring Boot",
+          "name": "TypeScript",
           "type": "technology"
         }
       }
@@ -458,7 +458,11 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Java",
+        "name": "Angular2+",
+        "type": "technology"
+      },
+      {
+        "name": "Google Analytics",
         "type": "technology"
       },
       {
@@ -470,11 +474,7 @@
         "type": "technology"
       },
       {
-        "name": "SQL",
-        "type": "technology"
-      },
-      {
-        "name": "Spring Boot",
+        "name": "TypeScript",
         "type": "technology"
       }
     ],
