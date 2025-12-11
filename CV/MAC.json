@@ -417,6 +417,12 @@
       ],
       "contactMails": [
         "ggallianoms@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "692051399",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
