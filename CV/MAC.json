@@ -161,6 +161,38 @@
       },
       {
         "details": {
+          "name": "property-demo.pages.dev",
+          "description": "Es una web demo de inmobiliaria con un buscador principal y un sistema de filtrado avanzado como el que se ve en la página de apartamentos en venta en España, donde puedes filtrar por ubicación, tipo de operación (compra/alquiler), tipo de propiedad, rango de precios, superficie, año, estado, orientación, características y fecha de publicación, además de ordenar por precio, tamaño, novedad o descuento. Esto la acerca bastante a la experiencia de un portal inmobiliario real, combinando un listado visual de propiedades con controles de filtros muy granulares.​\n\nEn la página de resultados se muestran las propiedades que cumplen esos filtros con etiquetas como “PRICE DROP” o “BEST DEAL”, fotos, ciudad, precio actual y anterior, descripción corta, planta, año de construcción, m², número de habitaciones y baños, extras y botones de “Add favorite” y “View details”. Todo esto refuerza la idea de que no es solo una landing estética, sino un demo funcional de catálogo inmobiliario con búsquedas refinadas.",
+          "URL": "https://property-demo.pages.dev",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/12/11/42ff3c4b-8f3a-4d31-81a7-123b8cb3408e_screenshot-2025-12-1.jpg",
+            "alt": "Screenshot 2025-12-11 at 16.31.49.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2025-05-01",
+            "competences": [
+              {
+                "name": "Astro",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "poker97.vercel.app",
           "description": "Poker97 es una herramienta web gratuita de planning poker para equipos ágiles que permite estimar historias de usuario mediante puntos de historia usando la secuencia clásica (1, 2, 3, 5, 8, 13, 21). En cada sala, los participantes eligen su carta, se revelan los valores cuando todos votan y se calcula una media automáticamente para ayudar a la discusión de estimaciones.\n\nLa interfaz es muy simple: muestra el mazo numérico, el estado de la votación, controles para cambiar el voto, reiniciar las rondas y botones para compartir el enlace, ver en modo “watch” o abandonar la sala. En el pie se enlaza al perfil de LinkedIn del autor, a su sitio personal y a una página de apoyo económico, lo que refuerza que es una app ligera e independiente pensada para usar sin fricción en sesiones rápidas de estimación.",
           "URL": "https://poker97.vercel.app",
@@ -457,6 +489,9 @@
     "projects": [
       {
         "name": "poker97.vercel.app"
+      },
+      {
+        "name": "property-demo.pages.dev"
       },
       {
         "name": "seasontimer.live"
