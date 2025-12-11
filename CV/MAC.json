@@ -158,42 +158,6 @@
       },
       {
         "details": {
-          "name": "Pokedux: Prueba Tecnica Frontend (junior)",
-          "URL": "https://pokedux-platzi.vercel.app/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/07/1f5a307f-13c2-48a2-b521-04d2a92645cb_1.png",
-            "alt": "1.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2023-06-01",
-            "competences": [
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "Redux",
-                "type": "technology"
-              },
-              {
-                "name": "Tailwind",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2023-06-01"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Libros: Prueba Tecnica (junior)",
           "description": "React Native\nExpo\nFirebase\nStripe\nReact Hook Form",
           "image": {
@@ -493,9 +457,6 @@
       },
       {
         "name": "Libros: Prueba Tecnica (junior)"
-      },
-      {
-        "name": "Pokedux: Prueba Tecnica Frontend (junior)"
       }
     ]
   }
