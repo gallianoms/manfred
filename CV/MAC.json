@@ -158,6 +158,38 @@
             ]
           }
         ]
+      },
+      {
+        "details": {
+          "name": "poker97.vercel.app",
+          "description": "Poker97 es una herramienta web gratuita de planning poker para equipos ágiles que permite estimar historias de usuario mediante puntos de historia usando la secuencia clásica (1, 2, 3, 5, 8, 13, 21). En cada sala, los participantes eligen su carta, se revelan los valores cuando todos votan y se calcula una media automáticamente para ayudar a la discusión de estimaciones.\n\nLa interfaz es muy simple: muestra el mazo numérico, el estado de la votación, controles para cambiar el voto, reiniciar las rondas y botones para compartir el enlace, ver en modo “watch” o abandonar la sala. En el pie se enlaza al perfil de LinkedIn del autor, a su sitio personal y a una página de apoyo económico, lo que refuerza que es una app ligera e independiente pensada para usar sin fricción en sesiones rápidas de estimación.",
+          "URL": "https://poker97.vercel.app",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/12/11/b6397555-1a82-4120-a9ca-334628059e67_screenshot-2025-12-1.jpg",
+            "alt": "Screenshot 2025-12-11 at 16.12.54.jpg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2025-01-01",
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Google Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -423,6 +455,9 @@
     "desiredJobDescription": "Compromiso del equipo.\nBuen ambiente laboral.\nPosibilidad de liderar equipo a futuro.",
     "goodPractices": "Intento dar lo mejor de mi en cada proyecto incluso si es mas de lo que se pide.\n\nCuido los detalles porque marcan diferencia.\n\nMe gusta cuando el trabajo se valora positivamente por los stakeholders.",
     "projects": [
+      {
+        "name": "poker97.vercel.app"
+      },
       {
         "name": "seasontimer.live"
       }
