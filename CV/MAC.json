@@ -59,6 +59,50 @@
     "jobs": [
       {
         "organization": {
+          "name": "Vueling Airlines (via Capitole Consulting)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/12/11/e9991596-b181-491b-b472-4a6342f339a4_vueling-logo.svg",
+            "alt": "Vueling-Logo.wine.svg"
+          },
+          "URL": "https://www.vueling.com/es"
+        },
+        "roles": [
+          {
+            "name": "Consultant Junior Frontend Engineer – Angular",
+            "startDate": "2024-06-01",
+            "finishDate": "2025-11-01",
+            "challenges": [
+              {
+                "description": "• Co-delivered Crew.Member platform with team for 3,000+ cabin crew, reducing administrative workload by 1 FTE and support tickets by 38% - recognized by business as ”enormous advancement for crew digitalization”\n\n• Enhanced ECC ticketing system (Employee Contact Center) with Salesforce integration, achieving €17,000 annual cost savings through process automation for 5,000+ employees\n• Led Angular 10→17 migration across critical HR applications (Employees, WorkflowsRRHH, Travels, etc), modernizing architecture and establishing reusable migration patterns\n\n• Developed features for 10+ Angular SPAs including Corporate Travel and Part-Time Scheduling with complex workflows: multi-level approvals, Reactive Forms, guards, RxJS patterns \n\n• Ensured code quality through PR reviews across repositories, mentored new developers, and authored Angular 17 best practices wiki (signals, standalone components) adopted by 10+ developers"
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Endesa",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/07/ccf033f0-20b0-4907-a4f8-4dd987e20ffd_endesa-logo-prensa.jpg",
