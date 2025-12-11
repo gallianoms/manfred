@@ -100,41 +100,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "Endesa",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/07/ccf033f0-20b0-4907-a4f8-4dd987e20ffd_endesa-logo-prensa.jpg",
-            "alt": "endesa-logo-prensa.jpg"
-          },
-          "URL": "https://www.endesa.com/"
-        },
-        "roles": [
-          {
-            "name": "Java Developer (Becario)",
-            "startDate": "2023-11-01",
-            "challenges": [
-              {
-                "description": "- Aprendí sobre los proyectos existentes a través de la doc. y lectura del código.\n- Mejoré mis habilidades técnicas en el estudio autodidacta de conceptos avanzados.\n- Participé en las reuniones y discusiones relacionadas con el desarrollo del proyecto"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Java",
-                "type": "technology"
-              },
-              {
-                "name": "SQL",
-                "type": "technology"
-              },
-              {
-                "name": "Spring Boot",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ],
     "projects": [
