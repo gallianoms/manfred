@@ -293,31 +293,6 @@
         ]
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "JavaScript Fullstack Developer",
-        "startDate": "2021-07-01",
-        "institution": {
-          "name": "Platzi",
-          "description": "- 400h",
-          "URL": "https://platzi.com/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/07/f463faf0-499b-477a-8147-1fc8ec65a4f0_platzi.jpeg",
-            "alt": "platzi.jpeg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
-            "name": "NodeJS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Licenciado en Ciencias de la Computación",
